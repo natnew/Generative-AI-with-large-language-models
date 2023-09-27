@@ -1,1 +1,1 @@
-# Generative-AI-with-large-language-models
+# Generative AI with Large Language Models
